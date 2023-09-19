@@ -5,12 +5,12 @@ I'm Swastika and I'm a student at Institute of Technical Education and Research,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastika-19&label=Profile%20views&color=000000&style=flat" alt="swastika-19" /> </p>
 
 - I’m currently studying **Computer Science Engineering**.
-- All of my projects are available here, on my [my GitHub](https://github.com/swastika-19).
+- All of my projects are available here, on [my GitHub](https://github.com/swastika-19).
 - Ask me about **web development**.
 - How to reach me: 📧 **swastikarout03@gmail.com**
 - Know about my experiences: [RESUME](https://github.com/swastika-19/swastika-19/blob/51bb6d82061507bf9c4af909f35125ba2cb88d2c/RESUME-CV.pdf)
 
-(https://github.com/swastika-19/swastika-19/blob/30b0a438ab6858c036d1d9851b96bdf6ce5a0217/image.gif)
+[********************************************](https://github.com/swastika-19/swastika-19/blob/30b0a438ab6858c036d1d9851b96bdf6ce5a0217/image.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
