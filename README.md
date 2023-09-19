@@ -8,9 +8,7 @@ I'm Swastika and I'm a student at Institute of Technical Education and Research,
 - All of my projects are available here, on [my GitHub](https://github.com/swastika-19).
 - Ask me about **web development**.
 - How to reach me: 📧 **swastikarout03@gmail.com**
-- Know about my experiences: [RESUME](https://github.com/swastika-19/swastika-19/blob/51bb6d82061507bf9c4af909f35125ba2cb88d2c/RESUME-CV.pdf)
-
-[https://i.pinimg.com/originals/85/4b/0a/854b0ada30ab2a3497e98e7c8b94b27d.gif](https://i.pinimg.com/564x/15/bc/98/15bc984f09cf2eb04e17308311356844.jpg)
+- Know about my experiences: [Resume](https://github.com/swastika-19/swastika-19/blob/51bb6d82061507bf9c4af909f35125ba2cb88d2c/RESUME-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
