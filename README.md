@@ -5,7 +5,7 @@ I'm Swastika and I'm a student at Institute of Technical Education and Research,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastika-19&label=Profile%20views&color=000000&style=flat" alt="swastika-19" /> </p>
 
 - I’m currently studying **Computer Science Engineering**.
-- All of my projects are available here. [https://github.com/swastika-19](https://github.com/swastika-19)
+- All of my projects are available here. ([https://github.com/swastika-19](https://github.com/swastika-19))
 
 - 💬 Ask me about **Web Development**
 
