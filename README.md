@@ -10,7 +10,7 @@ I'm Swastika and I'm a student at Institute of Technical Education and Research,
 - How to reach me: 📧 **swastikarout03@gmail.com**
 - Know about my experiences: [RESUME](https://github.com/swastika-19/swastika-19/blob/51bb6d82061507bf9c4af909f35125ba2cb88d2c/RESUME-CV.pdf)
 
-[********************************************](https://github.com/swastika-19/swastika-19/blob/30b0a438ab6858c036d1d9851b96bdf6ce5a0217/image.gif)
+[https://github.com/swastika-19/swastika-19/blob/30b0a438ab6858c036d1d9851b96bdf6ce5a0217/image.gif](https://github.com/swastika-19/swastika-19/blob/main/image.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
